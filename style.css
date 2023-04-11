@@ -1,0 +1,64 @@
+body{
+  background-image: url(/Images/codioful-formerly-gradienta-n2XqPm7Bqhk-unsplash.jpg);
+  background-size: cover;
+}
+.first{
+ 
+  font-size: 59px;
+  background-image: url(/Images/wood.avif);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-align: center;
+  padding: 20px;
+  text-transform: capitalize;
+ text-shadow: 2px 2px 1px brown;
+ background-image: url(/Images/sunny.jpg);
+ }
+.user{
+  color: aqua;
+  text-align: center;
+ font-size:35px;
+ text-shadow: 1px 1px 3px grey;
+}
+section{
+  text-align:center;
+  font-style: inherit;
+  font-size: 25px;
+  text-shadow: 1px 1px 2px  white;
+}
+div img{
+border-radius: 50%;
+img size: 20px;
+position: relative;
+top: 29px;
+left: 40%;
+}
+html,body{
+   margin: 0;
+   padding:0;
+   height: 100%;
+   width: 100%;
+}
+button :focus{
+  background-color:white;
+  color: red;
+
+  text-shadow: 2px 2px 1px black;
+  
+}
+button{
+  font-size:20px;
+  color:rgb(17, 0, 255);
+  text-decoration: dotted;
+  padding: 9px ;
+  border-radius: 60px;
+  border: 1px solid blue;
+  cursor: pointer;
+  box box-sizing: display: ;
+}
+button:hover{
+  color: aqua;
+  background: blue;
+}
